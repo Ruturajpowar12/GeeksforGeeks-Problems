@@ -1,34 +1,49 @@
-# GeeksforGeeks Java Problems
+<div align="center">
 
-Documenting my journey of solving Data Structures and Algorithms problems on GeeksforGeeks using Java.
+# 🧠 Coding Solutions
 
-## 🚀 About
-This repository contains my solutions to various Data Structures and Algorithms (DSA) problems from GeeksforGeeks.  
-The goal of this repository is to improve problem-solving skills, strengthen DSA concepts, and track my coding journey consistently.
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-9--25--2026-green?style=for-the-badge)
 
-## 🛠️ Language Used
-- Java
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
-## 📚 Topics Covered
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search Trees
-- Heaps
-- Hashing
-- Recursion
-- Dynamic Programming
-- Graphs
-- Searching & Sorting
+</div>
 
-
-## 🎯 Goals
-- Solve DSA problems regularly
-- Improve coding and logical thinking
-- Prepare for coding interviews and placements
-- Build consistency in problem solving
 ---
-Happy Coding 🚀
+
+## 📊 Stats
+
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **0** |
+| 🟡 Medium | **0** |
+| 🔴 Hard | **0** |
+| **Total** | **1** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| Java | **1** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-09-25* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
